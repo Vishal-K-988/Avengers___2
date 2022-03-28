@@ -1,0 +1,41 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  color: #3c3e42;
+  padding-top: 10.5rem;
+}
+
+#map {
+  margin: auto;
+  width: 800px;
+  height: 400px;
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  #map {
+    width: 450px;
+    height: 250px;
+  }
+}
+
+@media (max-width: 500px) {
+  #map {
+    width: 375px;
+    height: 200px;
+  }
+}
+
+nav {
+  border-bottom: 1px solid #eee;
+  padding: 1.5rem 5%;
+  margin-bottom: 5rem;
+}

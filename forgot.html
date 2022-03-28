@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forgot</title>
+    <link rel="stylesheet" href="Style2.css">
+</head>
+<body>
+    This is just demo and after words we would add a feature in which the user can enter the Email/Phone no. from which they get verified. But for the time being we just need to focus on the Login Page . Hope You understands <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <body>
+        
+    </body>
+    </html>
+    <div class="login">
+      <h1>Recover</h1>
+        <form method="post">
+          <input type="text" name="u" placeholder="Email / Mobile no." required="required" />
+            <input type="password" name="p" placeholder="Earlier Used Password" required="required" />
+            <button type="submit" class="btn btn-primary btn-block btn-large">Verify .</button>
+        </form>
+    </div>
+    
+    
+    
+    
+</body>
+</html>
